@@ -2,6 +2,7 @@ import whisper
 import ffmpeg
 import tempfile
 import os
+import sys
 import warnings
 from dataclasses import dataclass
 from video_summarizer.logger import logger

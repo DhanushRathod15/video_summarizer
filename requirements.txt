@@ -1,0 +1,7 @@
+openai-whisper
+ffmpeg
+ffmpeg-python
+flask
+pytube
+transformers
+requests
