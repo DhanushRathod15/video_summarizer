@@ -1,6 +1,4 @@
-#!/bin/sh
-'''exec' /Users/dhanushrathod/Desktop/video_summarizer/vm/bin/python "$0" "$@"
-' '''
+#!/Users/dhanushrathod/Desktop/video_summarizer/vm/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys

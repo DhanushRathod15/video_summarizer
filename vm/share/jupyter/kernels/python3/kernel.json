@@ -1,6 +1,6 @@
 {
  "argv": [
-  "/Users/dhanushrathod/Desktop/video_summarizer/vm/bin/python",
+  "python",
   "-m",
   "ipykernel_launcher",
   "-f",

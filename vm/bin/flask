@@ -1,4 +1,4 @@
-#!/Users/dhanushrathod/Desktop/video_summarizer/vm/bin/python3.10
+#!/Users/dhanushrathod/Desktop/video_summarizer/vm/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
